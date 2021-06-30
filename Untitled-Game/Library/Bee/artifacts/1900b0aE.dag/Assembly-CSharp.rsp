@@ -343,10 +343,15 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
+"Assets/Scenes/Scripts/Constants.cs"
+"Assets/Scenes/Scripts/Entity/DialogueTree.cs"
+"Assets/Scenes/Scripts/Entity/Entity.cs"
+"Assets/Scenes/Scripts/Entity/NPC.cs"
 "Assets/Scenes/Scripts/Item/Food.cs"
 "Assets/Scenes/Scripts/Item/Item.cs"
 "Assets/Scenes/Scripts/Item/ItemDatabase.cs"
 "Assets/Scenes/Scripts/Item/Weapon.cs"
+"Assets/Scenes/Scripts/Player/Movement.cs"
 -langversion:8.0
 
 /deterministic

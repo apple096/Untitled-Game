@@ -12,5 +12,6 @@ public class ItemDatabase
     public List<Item> db;
     public void AddItems() {
         db.Add(new Item("Null", "null item", "null", 0));
+        db.Add(new Food("Cater Pie", "Pitt", "caterPie", 100, 200));
     }
 }
