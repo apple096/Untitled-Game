@@ -12,8 +12,8 @@ public class NPC_List
 
     public void addNPCs() {
         DialogueTree AppleDialogue = new DialogueTree(Nodes: new DialogueNode[1]{
-            new DialogueNode(NodeChildren: new DialogueNode[0], "Hello, player. I'm Apple")
+            new DialogueNode(NodeChildren: new DialogueNode[0], "Hello, player.")
         });
-        npcs.Add(new NPC("Apple", "apple", AppleDialogue));
+        npcs.Add(new NPC("Guide", "guide", AppleDialogue));
     }
 }
