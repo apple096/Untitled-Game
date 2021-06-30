@@ -1763,6 +1763,7 @@ GameObject:
   - component: {fileID: 1486247084}
   - component: {fileID: 1486247088}
   - component: {fileID: 1486247082}
+  - component: {fileID: 1486247089}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -1915,3 +1916,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 1
   target: {fileID: 96042112}
+--- !u!114 &1486247089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1486247081}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77f586f285b3847808d79083bd19ef1f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1
+  unwrap: 1
+  splitAtEveryPortal: 0
