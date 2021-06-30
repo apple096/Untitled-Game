@@ -41,13 +41,13 @@
      <Compile Include="Assets\Scenes\Scripts\Entity\NPC_List.cs" />
      <Compile Include="Assets\Scenes\Scripts\Constants.cs" />
      <Compile Include="Assets\Scenes\Scripts\Entity\DialogueTree.cs" />
+     <Compile Include="Assets\Scenes\Scripts\Player\MoveTarget.cs" />
      <Compile Include="Assets\Scenes\Scripts\Entity\Entity.cs" />
      <Compile Include="Assets\Scenes\Scripts\Item\Item.cs" />
      <Compile Include="Assets\Scenes\Scripts\Player\Movement.cs" />
      <Compile Include="Assets\Scenes\Scripts\Entity\NPC.cs" />
      <Compile Include="Assets\Scenes\Scripts\Item\ItemDatabase.cs" />
      <Compile Include="Assets\Scenes\Scripts\Entity\Mob.cs" />
-     <Compile Include="Assets\Scenes\Scripts\Player\MoveTarget.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2021.1.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
