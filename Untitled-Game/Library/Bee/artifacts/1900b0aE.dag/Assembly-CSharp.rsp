@@ -347,6 +347,7 @@
 "Assets/Scenes/Scripts/Entity/DialogueTree.cs"
 "Assets/Scenes/Scripts/Entity/Entity.cs"
 "Assets/Scenes/Scripts/Entity/NPC.cs"
+"Assets/Scenes/Scripts/Entity/NPC_List.cs"
 "Assets/Scenes/Scripts/Item/Food.cs"
 "Assets/Scenes/Scripts/Item/Item.cs"
 "Assets/Scenes/Scripts/Item/ItemDatabase.cs"
