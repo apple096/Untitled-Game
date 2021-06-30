@@ -338,6 +338,9 @@
     <Reference Include="Unity.VisualScripting.IonicZip">
         <HintPath>C:/Users/CYBER/Documents/GitHub/Untitled-Game/Untitled-Game/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
+    <Reference Include="Pathfinding.Ionic.Zip.Reduced">
+        <HintPath>C:/Users/CYBER/Documents/GitHub/Untitled-Game/Untitled-Game/Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
+    </Reference>
     <Reference Include="log4netPlastic">
         <HintPath>C:/Users/CYBER/Documents/GitHub/Untitled-Game/Untitled-Game/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
     </Reference>
