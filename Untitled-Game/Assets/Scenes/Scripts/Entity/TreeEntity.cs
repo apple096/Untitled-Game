@@ -7,4 +7,8 @@ public class TreeEntity : Destructable
 {
     public TreeEntity(string Name, string Id, int Health, float RespawnTime): base(Name, Id, Health, RespawnTime) {
     }
+
+    public void chopTree() {
+        // do things
+    }
 }

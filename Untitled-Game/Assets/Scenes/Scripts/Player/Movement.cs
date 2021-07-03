@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-// Test Code
+// Dead code, 0 uses
 public class Movement : MonoBehaviour
 {
     public float speed = 6f;
