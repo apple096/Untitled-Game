@@ -11,7 +11,7 @@ TagManager:
   - A* Collide
   - Water
   - UI
-  - 
+  - Land
   - 
   - 
   - 
@@ -40,4 +40,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1840743859
+    locked: 0
+  - name: Treetop
+    uniqueID: 3131086333
     locked: 0

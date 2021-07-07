@@ -6,7 +6,9 @@ using System;
 public class Mob: Entity
 {
     public int health;
-    public Mob(string Name, string Id, int Health): base(Name, Id) {
+    public int damage;
+    public Mob(string Name, string Id, int Health, int Damage): base(Name, Id) {
         health = Health;
+        damage = Damage;
     }
 }

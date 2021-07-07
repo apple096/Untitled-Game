@@ -328,6 +328,7 @@
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/VSSettingsProvider.ref.dll"
+"Assets/Scenes/Scripts/Combat/CombatTriangle.cs"
 "Assets/Scenes/Scripts/Constants.cs"
 "Assets/Scenes/Scripts/Entity/Destructable.cs"
 "Assets/Scenes/Scripts/Entity/DialogueTree.cs"
@@ -344,7 +345,6 @@
 "Assets/Scenes/Scripts/Item/Item.cs"
 "Assets/Scenes/Scripts/Item/ItemDatabase.cs"
 "Assets/Scenes/Scripts/Item/Weapon.cs"
-"Assets/Scenes/Scripts/Player/Movement.cs"
 "Assets/Scenes/Scripts/Player/MoveTarget.cs"
 -langversion:8.0
 

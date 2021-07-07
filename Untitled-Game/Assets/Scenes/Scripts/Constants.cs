@@ -12,4 +12,10 @@ public class Constants {
         Combating,
         Overworld
     }
+
+    public enum CombatType {
+        Melee = 0,
+        Ranged = 1,
+        Magic = 2
+    }
 }
