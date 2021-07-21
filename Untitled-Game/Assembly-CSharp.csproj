@@ -43,6 +43,7 @@
      <Compile Include="Assets\Scenes\Scripts\Item\Food.cs" />
      <Compile Include="Assets\Scenes\Scripts\Entity\NPC_List.cs" />
      <Compile Include="Assets\Scenes\Scripts\Constants.cs" />
+     <Compile Include="Assets\Scenes\Scripts\Player\PlayerCollider.cs" />
      <Compile Include="Assets\Scenes\Scripts\Entity\DialogueTree.cs" />
      <Compile Include="Assets\Scenes\Scripts\Player\MoveTarget.cs" />
      <Compile Include="Assets\Scenes\Scripts\Entity\Entity.cs" />

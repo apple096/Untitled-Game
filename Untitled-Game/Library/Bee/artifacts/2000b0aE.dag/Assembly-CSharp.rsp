@@ -346,6 +346,7 @@
 "Assets/Scenes/Scripts/Item/ItemDatabase.cs"
 "Assets/Scenes/Scripts/Item/Weapon.cs"
 "Assets/Scenes/Scripts/Player/MoveTarget.cs"
+"Assets/Scenes/Scripts/Player/PlayerCollider.cs"
 -langversion:8.0
 
 /deterministic

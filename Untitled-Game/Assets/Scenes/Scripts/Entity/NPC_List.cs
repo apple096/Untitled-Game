@@ -12,7 +12,7 @@ public class NPC_List
 
     public void addNPCs() {
         DialogueTree GuideDialogue = new DialogueTree(Nodes: new DialogueNode[1]{
-            new DialogueNode(NodeChildren: new DialogueNode[0], "Hello, player.")
+            new DialogueNode(NodeChildren: new DialogueNode[0], "Hello, player. Itsa me, Mario.")
         });
         npcs.Add(new NPC("Guide", "guide", GuideDialogue));
     }
